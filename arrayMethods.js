@@ -56,3 +56,17 @@ var orderedValuesNewLength = orderedValues.length;
 var randomThingsArray = genericNumberArray.concat(colors);
 var poop = [{takeOut: 'Ice Cream' }, { takeOut: 'Medium Salad'}];
 var updatedOrders = orderQueue.concat(poop)
+
+var sentence = scrambledWords.join(' ');
+var myFruits = fruitCollection.join(' + ');
+
+var favoriteFriends = friends.slice(1,3);
+var owesMoney = friends.slice(3,6);
+
+var monthNameString = monthNames.toString();
+
+var favoriteColor = colors.indexOf('Red');
+var favoriteEvenNumber = mixedNums.indexOf(76);
+
+var lastNine = bulkNumbers.lastIndexOf(9);
+var lastFive = bulkNumbers.lastIndexOf(5);
